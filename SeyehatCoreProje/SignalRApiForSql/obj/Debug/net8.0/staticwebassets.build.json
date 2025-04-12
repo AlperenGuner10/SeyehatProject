@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OOstov2gGkxNGdI9CBtvGLwhu+x2j8QrWalVZehv6Aw=",
+  "Source": "SignalRApiForSql",
+  "BasePath": "_content/SignalRApiForSql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

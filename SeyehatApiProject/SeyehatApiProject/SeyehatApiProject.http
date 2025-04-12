@@ -1,0 +1,6 @@
+@SeyehatApiProject_HostAddress = http://localhost:5160
+
+GET {{SeyehatApiProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

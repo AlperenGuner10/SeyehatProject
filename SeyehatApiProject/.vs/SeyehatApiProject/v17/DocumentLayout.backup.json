@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alper\\source\\repos\\SeyehatApiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FD6460-85D8-4193-9D52-397DB338DD1F}|SeyehatApiProject\\SeyehatApiProject.csproj|c:\\users\\alper\\source\\repos\\seyehatapiproject\\seyehatapiproject\\dal\\entities\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FD6460-85D8-4193-9D52-397DB338DD1F}|SeyehatApiProject\\SeyehatApiProject.csproj|solutionrelative:seyehatapiproject\\dal\\entities\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FD6460-85D8-4193-9D52-397DB338DD1F}|SeyehatApiProject\\SeyehatApiProject.csproj|c:\\users\\alper\\source\\repos\\seyehatapiproject\\seyehatapiproject\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FD6460-85D8-4193-9D52-397DB338DD1F}|SeyehatApiProject\\SeyehatApiProject.csproj|solutionrelative:seyehatapiproject\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FD6460-85D8-4193-9D52-397DB338DD1F}|SeyehatApiProject\\SeyehatApiProject.csproj|c:\\users\\alper\\source\\repos\\seyehatapiproject\\seyehatapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FD6460-85D8-4193-9D52-397DB338DD1F}|SeyehatApiProject\\SeyehatApiProject.csproj|solutionrelative:seyehatapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\SeyehatApiProject\\SeyehatApiProject\\DAL\\Entities\\Visitor.cs",
+              "RelativeDocumentMoniker": "SeyehatApiProject\\DAL\\Entities\\Visitor.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\SeyehatApiProject\\SeyehatApiProject\\DAL\\Entities\\Visitor.cs",
+              "RelativeToolTip": "SeyehatApiProject\\DAL\\Entities\\Visitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:47:46.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\SeyehatApiProject\\SeyehatApiProject\\Program.cs",
+              "RelativeDocumentMoniker": "SeyehatApiProject\\Program.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\SeyehatApiProject\\SeyehatApiProject\\Program.cs",
+              "RelativeToolTip": "SeyehatApiProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:35:17.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisitorController.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\SeyehatApiProject\\SeyehatApiProject\\Controllers\\VisitorController.cs",
+              "RelativeDocumentMoniker": "SeyehatApiProject\\Controllers\\VisitorController.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\SeyehatApiProject\\SeyehatApiProject\\Controllers\\VisitorController.cs",
+              "RelativeToolTip": "SeyehatApiProject\\Controllers\\VisitorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:31:15.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
